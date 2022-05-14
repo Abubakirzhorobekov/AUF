@@ -1,4 +1,4 @@
-# INST AUF
+# _INST AUF_
 ## **Batch image processing for instagram** 
  Using pillow and os libraries write a code which:
 
